@@ -9,10 +9,7 @@
         double numero1, numero2;
 
         //Escreve a informação na tela sem pular linha
-        Console.WriteLine("Entre com o primeiro valor");
-        Console.WriteLine("Entre com o segundo valor");
-
-
+      
         //Escreva a informação e depois pula 1 linha
         Console.WriteLine("Entre com o numero 1: ");
 
