@@ -17,7 +17,7 @@
         double numeroDouble2 = 101;
 
 
-        
+
         //decimal - decimais com precisão
         decimal numeroDecimal = (decimal)1000.1231231231231312312;
 

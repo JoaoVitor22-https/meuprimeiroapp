@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "meuprimeiroapp", "meuprimei
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tipos", "..\tipo\tipos.csproj", "{0B2D5EB9-706D-4886-922E-9CA91D7E859D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projetoIdade", "..\Proxetchinho\projetoIdade.csproj", "{A250AC1F-E0C9-4966-BA9C-779053284BFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0B2D5EB9-706D-4886-922E-9CA91D7E859D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B2D5EB9-706D-4886-922E-9CA91D7E859D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B2D5EB9-706D-4886-922E-9CA91D7E859D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A250AC1F-E0C9-4966-BA9C-779053284BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A250AC1F-E0C9-4966-BA9C-779053284BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A250AC1F-E0C9-4966-BA9C-779053284BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A250AC1F-E0C9-4966-BA9C-779053284BFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

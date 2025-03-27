@@ -1,0 +1,14 @@
+C:\Users\Fernanda46528586\Documents\coisax\Proxetchinho\obj\Debug\net6.0\ProjetoIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda46528586\Documents\coisax\Proxetchinho\obj\Debug\net6.0\ProjetoIdade.AssemblyInfoInputs.cache
+C:\Users\Fernanda46528586\Documents\coisax\Proxetchinho\obj\Debug\net6.0\ProjetoIdade.AssemblyInfo.cs
+C:\Users\Fernanda46528586\Documents\coisax\Proxetchinho\obj\Debug\net6.0\ProjetoIdade.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda46528586\Documents\coisax\Proxetchinho\bin\Debug\net6.0\ProjetoIdade.exe
+C:\Users\Fernanda46528586\Documents\coisax\Proxetchinho\bin\Debug\net6.0\ProjetoIdade.deps.json
+C:\Users\Fernanda46528586\Documents\coisax\Proxetchinho\bin\Debug\net6.0\ProjetoIdade.runtimeconfig.json
+C:\Users\Fernanda46528586\Documents\coisax\Proxetchinho\bin\Debug\net6.0\ProjetoIdade.dll
+C:\Users\Fernanda46528586\Documents\coisax\Proxetchinho\bin\Debug\net6.0\ProjetoIdade.pdb
+C:\Users\Fernanda46528586\Documents\coisax\Proxetchinho\obj\Debug\net6.0\ProjetoIdade.dll
+C:\Users\Fernanda46528586\Documents\coisax\Proxetchinho\obj\Debug\net6.0\refint\ProjetoIdade.dll
+C:\Users\Fernanda46528586\Documents\coisax\Proxetchinho\obj\Debug\net6.0\ProjetoIdade.pdb
+C:\Users\Fernanda46528586\Documents\coisax\Proxetchinho\obj\Debug\net6.0\ProjetoIdade.genruntimeconfig.cache
+C:\Users\Fernanda46528586\Documents\coisax\Proxetchinho\obj\Debug\net6.0\ref\ProjetoIdade.dll

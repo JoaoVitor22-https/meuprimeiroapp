@@ -1,0 +1,14 @@
+C:\Users\Fernanda46528586\Documents\coisax\ConsoleApp1\bin\Debug\net6.0\meuprimeiroapp.exe
+C:\Users\Fernanda46528586\Documents\coisax\ConsoleApp1\bin\Debug\net6.0\meuprimeiroapp.deps.json
+C:\Users\Fernanda46528586\Documents\coisax\ConsoleApp1\bin\Debug\net6.0\meuprimeiroapp.runtimeconfig.json
+C:\Users\Fernanda46528586\Documents\coisax\ConsoleApp1\bin\Debug\net6.0\meuprimeiroapp.dll
+C:\Users\Fernanda46528586\Documents\coisax\ConsoleApp1\bin\Debug\net6.0\meuprimeiroapp.pdb
+C:\Users\Fernanda46528586\Documents\coisax\ConsoleApp1\obj\Debug\net6.0\meuprimeiroapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda46528586\Documents\coisax\ConsoleApp1\obj\Debug\net6.0\meuprimeiroapp.AssemblyInfoInputs.cache
+C:\Users\Fernanda46528586\Documents\coisax\ConsoleApp1\obj\Debug\net6.0\meuprimeiroapp.AssemblyInfo.cs
+C:\Users\Fernanda46528586\Documents\coisax\ConsoleApp1\obj\Debug\net6.0\meuprimeiroapp.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda46528586\Documents\coisax\ConsoleApp1\obj\Debug\net6.0\meuprimeiroapp.dll
+C:\Users\Fernanda46528586\Documents\coisax\ConsoleApp1\obj\Debug\net6.0\refint\meuprimeiroapp.dll
+C:\Users\Fernanda46528586\Documents\coisax\ConsoleApp1\obj\Debug\net6.0\meuprimeiroapp.pdb
+C:\Users\Fernanda46528586\Documents\coisax\ConsoleApp1\obj\Debug\net6.0\meuprimeiroapp.genruntimeconfig.cache
+C:\Users\Fernanda46528586\Documents\coisax\ConsoleApp1\obj\Debug\net6.0\ref\meuprimeiroapp.dll
