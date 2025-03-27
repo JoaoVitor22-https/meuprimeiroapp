@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fernanda46528586\\Documents\\coisax\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Fernanda46528586\\Documents\\coisax\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Fernanda46528586\\Documents\\coisax\\ConsoleApp1\\meuprimeiroapp.csproj",
+      "projectName": "meuprimeiroapp",
+      "projectPath": "C:\\Users\\Fernanda46528586\\Documents\\coisax\\ConsoleApp1\\meuprimeiroapp.csproj",
       "packagesPath": "C:\\Users\\Fernanda46528586\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Fernanda46528586\\Documents\\coisax\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",

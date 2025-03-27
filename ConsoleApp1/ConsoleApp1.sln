@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1.csproj", "{FD4EAC03-C808-4F81-B3D8-142C25D0722A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "meuprimeiroapp", "meuprimeiroapp.csproj", "{FD4EAC03-C808-4F81-B3D8-142C25D0722A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tipos", "..\tipo\tipos.csproj", "{0B2D5EB9-706D-4886-922E-9CA91D7E859D}"
 EndProject
