@@ -1,0 +1,14 @@
+C:\Users\Fernanda46528586\Documents\coisax\notas\bin\Debug\net6.0\notas.exe
+C:\Users\Fernanda46528586\Documents\coisax\notas\bin\Debug\net6.0\notas.deps.json
+C:\Users\Fernanda46528586\Documents\coisax\notas\bin\Debug\net6.0\notas.runtimeconfig.json
+C:\Users\Fernanda46528586\Documents\coisax\notas\bin\Debug\net6.0\notas.dll
+C:\Users\Fernanda46528586\Documents\coisax\notas\bin\Debug\net6.0\notas.pdb
+C:\Users\Fernanda46528586\Documents\coisax\notas\obj\Debug\net6.0\notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda46528586\Documents\coisax\notas\obj\Debug\net6.0\notas.AssemblyInfoInputs.cache
+C:\Users\Fernanda46528586\Documents\coisax\notas\obj\Debug\net6.0\notas.AssemblyInfo.cs
+C:\Users\Fernanda46528586\Documents\coisax\notas\obj\Debug\net6.0\notas.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda46528586\Documents\coisax\notas\obj\Debug\net6.0\notas.dll
+C:\Users\Fernanda46528586\Documents\coisax\notas\obj\Debug\net6.0\refint\notas.dll
+C:\Users\Fernanda46528586\Documents\coisax\notas\obj\Debug\net6.0\notas.pdb
+C:\Users\Fernanda46528586\Documents\coisax\notas\obj\Debug\net6.0\notas.genruntimeconfig.cache
+C:\Users\Fernanda46528586\Documents\coisax\notas\obj\Debug\net6.0\ref\notas.dll
