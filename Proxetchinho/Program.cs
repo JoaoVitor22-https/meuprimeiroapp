@@ -10,16 +10,14 @@ class Program
         int ano1, ano2;
 
         Console.WriteLine("Entre com o seu ano de nascimento: ");
-
         string informacao = Console.ReadLine();
-
         ano1 = Convert.ToInt32(informacao);
 
+
         Console.WriteLine("Entre com o ano atual: ");
-
         string informacao2 = Console.ReadLine();
-
         ano2 = Convert.ToInt32(informacao2);
+
 
         int subtracao = ano2 - ano1;
 

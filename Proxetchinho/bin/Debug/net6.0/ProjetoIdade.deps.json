@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "ProjetoIdade/1.0.0": {
+      "projetoIdade/1.0.0": {
         "runtime": {
-          "ProjetoIdade.dll": {}
+          "projetoIdade.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ProjetoIdade/1.0.0": {
+    "projetoIdade/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
