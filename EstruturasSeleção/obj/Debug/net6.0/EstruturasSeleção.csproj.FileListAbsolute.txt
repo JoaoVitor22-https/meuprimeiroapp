@@ -1,0 +1,14 @@
+C:\Users\Fernanda46528586\Documents\coisax\EstruturasSeleção\bin\Debug\net6.0\EstruturasSeleção.exe
+C:\Users\Fernanda46528586\Documents\coisax\EstruturasSeleção\bin\Debug\net6.0\EstruturasSeleção.deps.json
+C:\Users\Fernanda46528586\Documents\coisax\EstruturasSeleção\bin\Debug\net6.0\EstruturasSeleção.runtimeconfig.json
+C:\Users\Fernanda46528586\Documents\coisax\EstruturasSeleção\bin\Debug\net6.0\EstruturasSeleção.dll
+C:\Users\Fernanda46528586\Documents\coisax\EstruturasSeleção\bin\Debug\net6.0\EstruturasSeleção.pdb
+C:\Users\Fernanda46528586\Documents\coisax\EstruturasSeleção\obj\Debug\net6.0\EstruturasSeleção.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda46528586\Documents\coisax\EstruturasSeleção\obj\Debug\net6.0\EstruturasSeleção.AssemblyInfoInputs.cache
+C:\Users\Fernanda46528586\Documents\coisax\EstruturasSeleção\obj\Debug\net6.0\EstruturasSeleção.AssemblyInfo.cs
+C:\Users\Fernanda46528586\Documents\coisax\EstruturasSeleção\obj\Debug\net6.0\EstruturasSeleção.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda46528586\Documents\coisax\EstruturasSeleção\obj\Debug\net6.0\EstruturasSeleção.dll
+C:\Users\Fernanda46528586\Documents\coisax\EstruturasSeleção\obj\Debug\net6.0\refint\EstruturasSeleção.dll
+C:\Users\Fernanda46528586\Documents\coisax\EstruturasSeleção\obj\Debug\net6.0\EstruturasSeleção.pdb
+C:\Users\Fernanda46528586\Documents\coisax\EstruturasSeleção\obj\Debug\net6.0\EstruturasSeleção.genruntimeconfig.cache
+C:\Users\Fernanda46528586\Documents\coisax\EstruturasSeleção\obj\Debug\net6.0\ref\EstruturasSeleção.dll

@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tipos", "..\tipo\tipos.cspr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "projetoIdade", "..\Proxetchinho\projetoIdade.csproj", "{A250AC1F-E0C9-4966-BA9C-779053284BFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notas", "..\notas\notas.csproj", "{6834D95D-41A3-481E-AB78-75F646637E7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "notas", "..\notas\notas.csproj", "{6834D95D-41A3-481E-AB78-75F646637E7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturasSeleção", "..\EstruturasSeleção\EstruturasSeleção.csproj", "{3C3FC6B4-07C8-466E-B723-F401FABD95B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{6834D95D-41A3-481E-AB78-75F646637E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6834D95D-41A3-481E-AB78-75F646637E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6834D95D-41A3-481E-AB78-75F646637E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C3FC6B4-07C8-466E-B723-F401FABD95B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C3FC6B4-07C8-466E-B723-F401FABD95B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C3FC6B4-07C8-466E-B723-F401FABD95B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C3FC6B4-07C8-466E-B723-F401FABD95B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
